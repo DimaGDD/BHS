@@ -1,0 +1,706 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Anima",
+				"Animator"
+			],
+			[
+				"Up",
+				"UpArrow\tKeyCode.*"
+			],
+			[
+				"Start",
+				"Start\tSubsystem.*()"
+			],
+			[
+				"start",
+				"start\tMonoBehaviour.*()"
+			],
+			[
+				"Sta",
+				"Start\tSubsystem.*()"
+			],
+			[
+				"OnTr",
+				"OnTriggerEnter\tCollider.*(other)"
+			],
+			[
+				"cur",
+				"current_time"
+			],
+			[
+				"c",
+				"capitals"
+			],
+			[
+				"int",
+				"interval"
+			],
+			[
+				"in",
+				"interval"
+			],
+			[
+				"fra",
+				"frame_number"
+			],
+			[
+				"frame",
+				"frame_number"
+			],
+			[
+				"out",
+				"output_video_path"
+			],
+			[
+				"input",
+				"input_video_path"
+			],
+			[
+				"o",
+				"outsource"
+			],
+			[
+				"f",
+				"frame_count"
+			],
+			[
+				"tra",
+				"tracked_keypoint"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"get",
+				"get_json"
+			],
+			[
+				"dum",
+				"dumps"
+			],
+			[
+				"js",
+				"json_response"
+			],
+			[
+				"lauch",
+				"launch_model"
+			],
+			[
+				"add",
+				"add_view"
+			],
+			[
+				"user",
+				"user_data"
+			],
+			[
+				"e",
+				"existing_admin"
+			],
+			[
+				"n",
+				"nullable="
+			],
+			[
+				"co",
+				"continue"
+			],
+			[
+				"tabl",
+				"table_columns"
+			],
+			[
+				"Ima",
+				"ImageUploadField"
+			],
+			[
+				"Model",
+				"ModelView"
+			],
+			[
+				"u",
+				"update_admin_panel"
+			],
+			[
+				"before_",
+				"before_serving"
+			],
+			[
+				"app",
+				"app_context"
+			],
+			[
+				"a",
+				"app"
+			],
+			[
+				"w",
+				"with"
+			],
+			[
+				"sq",
+				"sqlite3"
+			],
+			[
+				"quart",
+				"quart_db"
+			],
+			[
+				"t",
+				"table_columns"
+			],
+			[
+				"Base",
+				"BaseModel"
+			],
+			[
+				"con",
+				"app_context"
+			],
+			[
+				"crea",
+				"create_admin_views"
+			],
+			[
+				"data",
+				"data_inner"
+			],
+			[
+				"class",
+				"class_form"
+			],
+			[
+				"File",
+				"FileUploadField"
+			],
+			[
+				"Mode",
+				"ModelView"
+			],
+			[
+				"Text",
+				"TextField"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Assets/Scripts/ParalaxBehaivor.cs",
+			"settings":
+			{
+				"buffer_size": 790,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Assets/Scripts/Capabilities/Move.cs",
+			"settings":
+			{
+				"buffer_size": 1229,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "Assets/Scripts/Capabilities/Jump.cs",
+			"settings":
+			{
+				"buffer_size": 2574,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Channel"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insrt",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/Приложения/Unity/Projects/BHS",
+		"/F/Приложения/Unity/Projects/BHS/Assets",
+		"/F/Приложения/Unity/Projects/BHS/Assets/Scripts"
+	],
+	"file_history":
+	[
+		"/F/Приложения/Unity/Projects/BHS/Assets/Scripts/Capabilities/Move.cs",
+		"/F/Приложения/Unity/Projects/BHS/Assets/Scripts/Checks/Ground.cs",
+		"/F/Приложения/Unity/Projects/BHS/Assets/Scripts/Controllers/PlayerAnimation.cs",
+		"/F/Приложения/Unity/Projects/BHS/Assets/Scripts/Capabilities/Jump.cs",
+		"/F/Приложения/Unity/Projects/BHS/Assets/Scripts/Player/PlayerController.cs",
+		"/F/Projects/Practice/yolov-8/test.py",
+		"/F/Projects/Practice/yolov-8/main.py",
+		"/F/Projects/Practice/yolov-8/video/output/witcher_fight.json",
+		"/F/Projects/Practice/Ready/Дмитрий Геленидзе/yolov8/main.py",
+		"/C/Users/DimaGDD/Downloads/Telegram Desktop/main (3).py",
+		"/C/Users/DimaGDD/Downloads/Telegram Desktop/main (2).py",
+		"/F/Projects/Practice/audio_neuron/main.py",
+		"/C/Users/DimaGDD/Downloads/Telegram Desktop/main.py",
+		"/F/Projects/Practice/yolov7-pose-estimation/frame_count.py",
+		"/C/Users/DimaGDD/Downloads/Telegram Desktop/test1.py",
+		"/F/Projects/Practice/yolov7-pose-estimation/test.py",
+		"/F/Projects/Practice/audio_neuron/change_model.py",
+		"/C/Users/DimaGDD/Documents/The Witcher 3/gamesaves/ManualSave_5f181_7e45ec00_592ba7f.sav",
+		"/F/Projects/Practic/yolov7-pose-estimation/utils/plots.py",
+		"/F/Projects/Practic/yolov7-pose-estimation/test.py",
+		"/F/Projects/Practic/yolov7-pose-estimation/pose-estimate.py",
+		"/F/Projects/gpt/web/script.js",
+		"/F/Projects/gpt/web/index.html",
+		"/F/Python/test.py",
+		"/F/Projects/gpt/main.py",
+		"/F/Projects/Practic/yolov7-pose-estimation/utils/general.py",
+		"/F/Projects/Practic/yolov7-pose-estimation/utils/add_nms.py",
+		"/F/Projects/Practic/yolov7-pose-estimation/utils/activations.py",
+		"/F/Projects/Practic/yolov7-pose-estimation/utils/__init__.py",
+		"/F/Projects/Practic/yolov7-pose-estimation/utils/torch_utils.py",
+		"/F/Projects/Practic/yolov7-pose-estimation/models/common.py",
+		"/F/Projects/gpt/template/main.html",
+		"/F/GitHub/MyRepositories/BotDgtu/app.py",
+		"/F/Projects/red_horse/DataFactory.py",
+		"/F/GitHub/MyRepositories/BotDgtu/static/js/scripts.js",
+		"/C/Users/DimaGDD/AppData/Roaming/Vencord/themes/Custom_TW3.css",
+		"/C/Users/DimaGDD/Downloads/DarkMatter.theme.css",
+		"/C/Users/DimaGDD/AppData/Roaming/Vencord/themes/TW3_V2.css",
+		"/C/Users/DimaGDD/AppData/Roaming/Vencord/themes/WizardUI.theme.css",
+		"/C/Users/DimaGDD/Downloads/DiscordNight.theme.css",
+		"/C/Users/DimaGDD/AppData/Roaming/Vencord/themes/DarkNeon.theme.css",
+		"/C/Users/DimaGDD/Downloads/DarkNeon.theme.css",
+		"/C/Users/DimaGDD/AppData/Roaming/Vencord/themes/amoled-cord.theme.css",
+		"/C/Users/DimaGDD/AppData/Roaming/Vencord/themes/TW3.css",
+		"/F/Projects/red_horse/main_3.py",
+		"/F/Projects/red_horse/SearchModule.py",
+		"/F/Projects/red_horse/main_2.py",
+		"/F/Projects/red_horse/MicModule.py",
+		"/F/Projects/red_horse/PhraseHandler.py",
+		"/F/GitHub/MyRepositories/TestBot/app.py",
+		"/F/GitHub/MyRepositories/BotDgtu/waitress_config.py",
+		"/F/GitHub/MyRepositories/BotDgtu/appp.py",
+		"/F/GitHub/MyRepositories/BotDgtu/tts/start.bat",
+		"/F/GitHub/MyRepositories/BotDgtu/tts/rmvpe.py",
+		"/F/GitHub/MyRepositories/BotDgtu/tts/config.py",
+		"/F/GitHub/MyRepositories/BotDgtu/tts/app.py",
+		"/F/GitHub/MyRepositories/BotDgtu/tts/lib/infer_pack/models.py",
+		"/F/GitHub/MyRepositories/BotDgtu/tts/lib/infer_pack/modules.py",
+		"/F/GitHub/MyRepositories/BotDgtu/tts/lib/infer_pack/commons.py",
+		"/F/GitHub/MyRepositories/BotDgtu/tts/lib/infer_pack/attentions.py",
+		"/F/GitHub/MyRepositories/BotDgtu/dialogue/DataFactory.py",
+		"/F/GitHub/MyRepositories/BotDgtu/dialogue/SearchModule.py",
+		"/F/GitHub/MyRepositories/BotDgtu/tts/start.py",
+		"/C/Users/DimaGDD/AppData/Local/Temp/Rar$DIa7600.17090/app.py",
+		"/F/GitHub/MyRepositories/BotDgtu/templates/index.html",
+		"/F/GitHub/MyRepositories/BotDgtu/static/css/main.css",
+		"/F/GitHub/MyRepositories/BotDgtu/test.py",
+		"/C/Users/DimaGDD/AppData/Local/Temp/Rar$DIa11956.39474/app.py",
+		"/F/GitHub/MyRepositories/BotDgtu/start_proj.bat",
+		"/F/GitHub/MyRepositories/DgtuBot/app.py",
+		"/F/GitHub/MyRepositories/DgtuBot/dialogue/horse/ffmpeg.exe",
+		"/F/GitHub/MyRepositories/DgtuBot/dialogue/horse/DataFactory.py",
+		"/F/Projects/dgtu_bot_flask/app.py",
+		"/F/GitHub/MyRepositories/dgtu_bot/app.py",
+		"/F/Projects/dgtu_bot_flask/dialogue/horse/qr_generate.py",
+		"/F/Projects/dgtu_bot_flask/venv/Lib/site-packages/wtforms/fields/core.py",
+		"/F/Projects/dgtu_bot_flask/venv/Lib/site-packages/wtforms/fields/form.py",
+		"/F/Projects/dgtu_bot_flask/venv/Lib/site-packages/flask_babel/__init__.py",
+		"/F/Projects/dgtu_bot_flask/venv/Lib/site-packages/flask_admin/base.py",
+		"/F/Projects/dgtu_bot_flask/venv/Lib/site-packages/flask_admin/__init__.py",
+		"/F/Projects/dgtu_bot_flask/venv/Lib/site-packages/flask_babelex/__init__.py",
+		"/F/Projects/dgtu_bot_flask/venv/Lib/site-packages/flask_babelex/_compat.py",
+		"/F/Projects/dgtu_bot_flask/venv/Lib/site-packages/flask_babel/speaklater.py",
+		"/F/Projects/dgtu_bot_flask/venv/Lib/site-packages/flask_admin/form/upload.py",
+		"/F/Projects/dgtu_bot_flask/venv/Lib/site-packages/wtforms/widgets/core.py",
+		"/F/Projects/dgtu_bot_flask/venv/Lib/site-packages/wtforms/form.py",
+		"/F/Projects/dgtu_bot_flask/venv/Lib/site-packages/wtforms/i18n.py",
+		"/F/Projects/dgtu_bot_flask/venv/Lib/site-packages/wtforms/meta.py",
+		"/F/Projects/dgtu_bot_flask/venv/Lib/site-packages/wtforms/utils.py",
+		"/F/Projects/dgtu_bot_flask/venv/Lib/site-packages/wtforms/validators.py",
+		"/F/Projects/dgtu_bot_flask/venv/Lib/site-packages/wtforms/fields/choices.py",
+		"/F/Projects/dgtu_bot_flask/venv/Lib/site-packages/wtforms/__init__.py",
+		"/F/Projects/dgtu_bot_flask/migrate_db.bat",
+		"/F/Projects/dgtu_bot_flask/migrations/versions/df0f01039ab7_.py",
+		"/F/Projects/dgtu_bot_flask/dialogue/horse/DataFactory.py",
+		"/F/Projects/dgtu_bot_flask/dialogue/horse/SearchModule.py",
+		"/F/Projects/dgtu_bot_flask/migrations/versions/2b66e725ca58_.py",
+		"/F/Projects/dgtu_bot_flask/venv/Lib/site-packages/flask/app.py",
+		"/F/Projects/dgtu_bot_flask/start.py",
+		"/F/Projects/dgtu_bot_flask/templates/login.html",
+		"/F/Projects/dgtu_bot_flask/main.py",
+		"/F/Projects/dgtu_bot_flask/restart_server.bat",
+		"/F/Projects/dgtu_bot_flask/venv/Lib/site-packages/pymon/main.py",
+		"/F/Projects/dgtu_bot_flask/venv/Lib/site-packages/pymon/monitor.py",
+		"/F/Projects/dgtu_bot_flask/venv/Lib/site-packages/pymon/__init__.py",
+		"/F/Projects/dgtu_bot_flask/venv/Lib/site-packages/pymon/logger.py",
+		"/F/Projects/dgtu_bot_quart/app.py",
+		"/F/Projects/dgtu_bot_quart/venv/Lib/site-packages/quart_admin/helpers.py",
+		"/F/Projects/dgtu_bot_quart/venv/Lib/site-packages/quart_admin/context.py",
+		"/F/Projects/dgtu_bot_quart/venv/Lib/site-packages/quart_admin/contents.py",
+		"/F/Projects/dgtu_bot_quart/venv/Lib/site-packages/quart_admin/cli.py",
+		"/F/Projects/dgtu_bot_quart/venv/Lib/site-packages/quart_admin/__init__.py",
+		"/F/Projects/dgtu_bot_quart/admin_panel.py",
+		"/F/Projects/dgtu_bot_quart/src/api/__init__.py",
+		"/F/Projects/dgtu_bot_quart/pyproject.toml",
+		"/F/Projects/dgtu_bot_quart/templates/admin/manage.html",
+		"/F/Projects/dgtu_bot_flask/static/js/scripts.js",
+		"/F/Projects/dgtu_bot_quart/templates/index.html",
+		"/F/Projects/a/app.py",
+		"/C/Users/DimaGDD/AppData/Local/Temp/Rar$DIa13108.15857/app.py",
+		"/F/Projects/dgtu_bot_quart/templates/admin/config.html",
+		"/F/Projects/dgtu_bot_flask/templates/admin/config.html",
+		"/F/Projects/dgtu_bot_flask/templates/admin/table.html",
+		"/C/Users/DimaGDD/Downloads/DataFactory.py",
+		"/F/Projects/dgtu_bot_flask/templates/admin/index.html",
+		"/F/Projects/dgtu_bot_flask/backup_code.py",
+		"/F/Projects/dgtu_bot_flask/templates/config.html",
+		"/F/Projects/dgtu_bot_flask/templates/index.html"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Assets/Scripts/ParalaxBehaivor.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 790,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".<",
+									"selector": "source.cs"
+								}
+							],
+							"lsp_active": true,
+							"lsp_uri": "file:///F:/%D0%9F%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/Unity/Projects/BHS/Assets/Scripts/ParalaxBehaivor.cs",
+							"show_definitions": false,
+							"syntax": "Packages/C#/C#.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Assets/Scripts/Capabilities/Move.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1229,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								234,
+								234
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".<",
+									"selector": "source.cs"
+								},
+								{
+									"characters": ". ",
+									"registration_id": "1d50d33b-e7e7-412d-9779-6ff7b39150c3",
+									"selector": "source - comment",
+									"server": "OmniSharp"
+								},
+								{
+									"characters": ". ",
+									"registration_id": "1d50d33b-e7e7-412d-9779-6ff7b39150c3",
+									"selector": "source - comment",
+									"server": "OmniSharp"
+								}
+							],
+							"lsp_active": true,
+							"lsp_uri": "file:///F:/%D0%9F%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/Unity/Projects/BHS/Assets/Scripts/Capabilities/Move.cs",
+							"show_definitions": false,
+							"syntax": "Packages/C#/C#.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Assets/Scripts/Capabilities/Jump.cs",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2574,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1208,
+								1208
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".<",
+									"selector": "source.cs"
+								}
+							],
+							"lsp_active": true,
+							"lsp_uri": "file:///F:/%D0%9F%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/Unity/Projects/BHS/Assets/Scripts/Capabilities/Jump.cs",
+							"show_definitions": false,
+							"syntax": "Packages/C#/C#.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.diagnostics":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "BHS.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 349.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
