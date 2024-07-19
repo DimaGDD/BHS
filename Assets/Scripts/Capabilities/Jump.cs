@@ -20,12 +20,19 @@ namespace BHSCamp
 
         private bool _desiredJump, _onGround;
 
+        private float _velocityMultiplier;
+
         void Awake()
         {
             _body = GetComponent<Rigidbody2D>();
             _ground = GetComponent<Ground>();
 
             _defaultGravityScale = 1f;
+        }
+
+        private void Start()
+        {
+            _velocityMultiplier = 1f;
         }
 
         public void Action()
@@ -69,6 +76,7 @@ namespace BHSCamp
 
             _body.velocity = _velocity;
         }
+
         private void JumpAction()
         {
             if (_onGround || _jumpPhase < _maxAirJumps)
@@ -77,7 +85,7 @@ namespace BHSCamp
 
                 _jumpPhase += 1;
                 
-                _jumpSpeed = Mathf.Sqrt(-2f * Physics2D.gravity.y * _jumpHeight);
+                _jumpSpeed = Mathf.Sqrt(-2f * Physics2D.gravity.y * _jumpHeight * _velocityMultiplier);
                 
                 if (_velocity.y > 0f)
                 {
@@ -89,6 +97,11 @@ namespace BHSCamp
                 }
                 _velocity.y += _jumpSpeed;
             }
+        }
+
+        public void SetPowerupJump(float multiplier)
+        {
+            _velocityMultiplier = multiplier;
         }
     }
 }

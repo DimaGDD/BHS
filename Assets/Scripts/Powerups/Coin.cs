@@ -1,0 +1,13 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Coin : MonoBehaviour, IPowerup
+{
+    [SerializeField] private int _scoreToAdd;
+
+    public void Apply(GameObject target)
+    {
+        GameManager.Instance.AddScore(_scoreToAdd);
+    }
+}
