@@ -4,6 +4,102 @@
 		"selected_items":
 		[
 			[
+				"find",
+				"find_python"
+			],
+			[
+				"s",
+				"subprocess"
+			],
+			[
+				"Ope",
+				"OpenMenuInGame"
+			],
+			[
+				"Get",
+				"GetComponent<>"
+			],
+			[
+				"game",
+				"GameObject"
+			],
+			[
+				"ti",
+				"timeScale"
+			],
+			[
+				"Sce",
+				"SceneUtility"
+			],
+			[
+				"Scene",
+				"PhysicsScene2D"
+			],
+			[
+				"Sc",
+				"Scene"
+			],
+			[
+				"S",
+				"SerializeField"
+			],
+			[
+				"t",
+				"timeScale"
+			],
+			[
+				"On",
+				"OnHealed"
+			],
+			[
+				"Uni",
+				"UnityEngine"
+			],
+			[
+				"Game",
+				"GameObject"
+			],
+			[
+				"Se",
+				"SerializeField"
+			],
+			[
+				"_ve",
+				"_velocityMultiplier"
+			],
+			[
+				"_vel",
+				"_velocityMultiplier"
+			],
+			[
+				"_v",
+				"_velocityMultiplier"
+			],
+			[
+				"Un",
+				"UnityEngine"
+			],
+			[
+				"Ga",
+				"GameObject"
+			],
+			[
+				"Time",
+				"Timer"
+			],
+			[
+				"Wa",
+				"WaitForSeconds"
+			],
+			[
+				"name",
+				"namespace"
+			],
+			[
+				"De",
+				"Destroy"
+			],
+			[
 				"Anima",
 				"Animator"
 			],
@@ -156,10 +252,6 @@
 				"quart_db"
 			],
 			[
-				"t",
-				"table_columns"
-			],
-			[
 				"Base",
 				"BaseModel"
 			],
@@ -196,34 +288,23 @@
 	"buffers":
 	[
 		{
-			"file": "Assets/Scripts/ParalaxBehaivor.cs",
+			"file": "/F/GitHub/MyRepositories/gamernet/backend/gamernet/gamernet/urls.py",
 			"settings":
 			{
-				"buffer_size": 790,
+				"buffer_size": 167,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "/F/GitHub/MyRepositories/gamernet/backend/gamernet/main_page/urls.py",
+			"settings":
+			{
+				"buffer_size": 163,
 				"line_ending": "Windows"
 			}
-		},
-		{
-			"file": "Assets/Scripts/Capabilities/Move.cs",
-			"settings":
-			{
-				"buffer_size": 1229,
-				"line_ending": "Windows"
-			},
-			"undo_stack":
-			[
-			]
-		},
-		{
-			"file": "Assets/Scripts/Capabilities/Jump.cs",
-			"settings":
-			{
-				"buffer_size": 2574,
-				"line_ending": "Windows"
-			},
-			"undo_stack":
-			[
-			]
 		}
 	],
 	"build_system": "",
@@ -292,18 +373,53 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/F/Приложения/Unity/Projects/BHS",
-		"/F/Приложения/Unity/Projects/BHS/Assets",
-		"/F/Приложения/Unity/Projects/BHS/Assets/Scripts"
-	],
 	"file_history":
 	[
+		"/F/GitHub/MyRepositories/gamernet/backend/gamernet/gamernet/settings.py",
+		"/F/Python/test.py",
+		"/F/Projects/Sample/main/install.py",
+		"/F/Projects/Sample/main/uninstall.py",
+		"/F/Projects/dv_cklicker/main.py",
+		"/F/Projects/Sample/main/main.py",
+		"/F/Projects/dv_cklicker/python.py",
+		"/F/Projects/Sample/uninstall.py",
+		"/F/Projects/Sample/install.py",
+		"/F/Projects/Sample/main.py",
+		"/F/Projects/Sample/find_python.py",
+		"/F/Projects/Sample/install_python.py",
+		"/F/Projects/Sample/output/install/_internal/main.py",
+		"/F/Приложения/Unity/Projects/BHS/Assets/Scripts/FinishZone.cs",
+		"/F/Приложения/Unity/Projects/BHS/Assets/Scripts/Options/OpenMenuInGame.cs",
+		"/F/Приложения/Unity/Projects/BHS/Assets/Scripts/GameManager.cs",
+		"/F/Приложения/Unity/Projects/BHS/Assets/Scripts/Options/OpenFinishMenu.cs",
+		"/F/Приложения/Unity/Projects/BHS/Assets/Scripts/ApplicationQuit.cs",
+		"/F/Приложения/Unity/Projects/BHS/Assets/Scripts/UI/LevelChooser.cs",
+		"/F/Приложения/Unity/Projects/BHS/Assets/Scripts/UI/LevelPreviewData.cs",
+		"/F/Приложения/Unity/Projects/BHS/Assets/Scripts/Options/ScreenOption.cs",
 		"/F/Приложения/Unity/Projects/BHS/Assets/Scripts/Capabilities/Move.cs",
+		"/F/Приложения/Unity/Projects/BHS/Assets/Scripts/Powerups/Coin.cs",
+		"/F/Приложения/Unity/Projects/BHS/Assets/Scripts/UI/ScoreView.cs",
+		"/F/Приложения/Unity/Projects/BHS/Assets/Scripts/Combat/Health.cs",
+		"/F/Приложения/Unity/Projects/BHS/Assets/Scripts/UI/HealthBar.cs",
+		"/F/Приложения/Unity/Projects/BHS/Assets/Scripts/UI/ApplicationQuit.cs",
+		"/F/Приложения/Unity/Projects/BHS/Assets/Scripts/Capabilities/Jump.cs",
+		"/F/Приложения/Unity/Projects/BHS/Assets/Scripts/Capabilities/IMove.cs",
+		"/F/Приложения/Unity/Projects/BHS/Assets/Scripts/Powerups/HealthPowerup.cs",
+		"/F/Приложения/Unity/Projects/BHS/Assets/Scripts/Powerups/SmokePowerup.cs",
+		"/F/Приложения/Unity/Projects/BHS/Assets/Scripts/Powerups/JumpPowerup.cs",
+		"/F/Приложения/Unity/Projects/BHS/Assets/Scripts/Capabilities/Invisibility.cs",
+		"/F/Приложения/Unity/Projects/BHS/Assets/Scripts/Powerups/SpeedPowerup.cs",
+		"/F/Приложения/Unity/Projects/BHS/Assets/Scripts/Powerups/TemporaryPowerup.cs",
+		"/F/Приложения/Unity/Projects/BHS/Assets/Scripts/Capabilities/ActionOnTimer.cs",
+		"/F/Приложения/Unity/Projects/MyGame/Assets/Scripts/Player/Move.cs",
+		"/F/Приложения/Unity/Projects/BHS/Assets/Scripts/Powerups/JumoPoweup.cs",
+		"/F/Приложения/Unity/Projects/BHS/Assets/Scripts/Enemy/States/PatrolState.cs",
+		"/F/Приложения/Unity/Projects/BHS/Assets/Scripts/Enemy/States/AttackState.cs",
+		"/F/Приложения/Unity/Projects/BHS/Assets/Scripts/Powerups/PowerupAplier.cs",
+		"/F/Приложения/Unity/Projects/BHS/Assets/Scripts/Powerups/IPowerup.cs",
+		"/F/Приложения/Unity/Projects/BHS/Assets/Scripts/ParalaxBehaivor.cs",
 		"/F/Приложения/Unity/Projects/BHS/Assets/Scripts/Checks/Ground.cs",
 		"/F/Приложения/Unity/Projects/BHS/Assets/Scripts/Controllers/PlayerAnimation.cs",
-		"/F/Приложения/Unity/Projects/BHS/Assets/Scripts/Capabilities/Jump.cs",
 		"/F/Приложения/Unity/Projects/BHS/Assets/Scripts/Player/PlayerController.cs",
 		"/F/Projects/Practice/yolov-8/test.py",
 		"/F/Projects/Practice/yolov-8/main.py",
@@ -323,7 +439,6 @@
 		"/F/Projects/Practic/yolov7-pose-estimation/pose-estimate.py",
 		"/F/Projects/gpt/web/script.js",
 		"/F/Projects/gpt/web/index.html",
-		"/F/Python/test.py",
 		"/F/Projects/gpt/main.py",
 		"/F/Projects/Practic/yolov7-pose-estimation/utils/general.py",
 		"/F/Projects/Practic/yolov7-pose-estimation/utils/add_nms.py",
@@ -387,51 +502,11 @@
 		"/F/Projects/dgtu_bot_flask/venv/Lib/site-packages/wtforms/widgets/core.py",
 		"/F/Projects/dgtu_bot_flask/venv/Lib/site-packages/wtforms/form.py",
 		"/F/Projects/dgtu_bot_flask/venv/Lib/site-packages/wtforms/i18n.py",
-		"/F/Projects/dgtu_bot_flask/venv/Lib/site-packages/wtforms/meta.py",
-		"/F/Projects/dgtu_bot_flask/venv/Lib/site-packages/wtforms/utils.py",
-		"/F/Projects/dgtu_bot_flask/venv/Lib/site-packages/wtforms/validators.py",
-		"/F/Projects/dgtu_bot_flask/venv/Lib/site-packages/wtforms/fields/choices.py",
-		"/F/Projects/dgtu_bot_flask/venv/Lib/site-packages/wtforms/__init__.py",
-		"/F/Projects/dgtu_bot_flask/migrate_db.bat",
-		"/F/Projects/dgtu_bot_flask/migrations/versions/df0f01039ab7_.py",
-		"/F/Projects/dgtu_bot_flask/dialogue/horse/DataFactory.py",
-		"/F/Projects/dgtu_bot_flask/dialogue/horse/SearchModule.py",
-		"/F/Projects/dgtu_bot_flask/migrations/versions/2b66e725ca58_.py",
-		"/F/Projects/dgtu_bot_flask/venv/Lib/site-packages/flask/app.py",
-		"/F/Projects/dgtu_bot_flask/start.py",
-		"/F/Projects/dgtu_bot_flask/templates/login.html",
-		"/F/Projects/dgtu_bot_flask/main.py",
-		"/F/Projects/dgtu_bot_flask/restart_server.bat",
-		"/F/Projects/dgtu_bot_flask/venv/Lib/site-packages/pymon/main.py",
-		"/F/Projects/dgtu_bot_flask/venv/Lib/site-packages/pymon/monitor.py",
-		"/F/Projects/dgtu_bot_flask/venv/Lib/site-packages/pymon/__init__.py",
-		"/F/Projects/dgtu_bot_flask/venv/Lib/site-packages/pymon/logger.py",
-		"/F/Projects/dgtu_bot_quart/app.py",
-		"/F/Projects/dgtu_bot_quart/venv/Lib/site-packages/quart_admin/helpers.py",
-		"/F/Projects/dgtu_bot_quart/venv/Lib/site-packages/quart_admin/context.py",
-		"/F/Projects/dgtu_bot_quart/venv/Lib/site-packages/quart_admin/contents.py",
-		"/F/Projects/dgtu_bot_quart/venv/Lib/site-packages/quart_admin/cli.py",
-		"/F/Projects/dgtu_bot_quart/venv/Lib/site-packages/quart_admin/__init__.py",
-		"/F/Projects/dgtu_bot_quart/admin_panel.py",
-		"/F/Projects/dgtu_bot_quart/src/api/__init__.py",
-		"/F/Projects/dgtu_bot_quart/pyproject.toml",
-		"/F/Projects/dgtu_bot_quart/templates/admin/manage.html",
-		"/F/Projects/dgtu_bot_flask/static/js/scripts.js",
-		"/F/Projects/dgtu_bot_quart/templates/index.html",
-		"/F/Projects/a/app.py",
-		"/C/Users/DimaGDD/AppData/Local/Temp/Rar$DIa13108.15857/app.py",
-		"/F/Projects/dgtu_bot_quart/templates/admin/config.html",
-		"/F/Projects/dgtu_bot_flask/templates/admin/config.html",
-		"/F/Projects/dgtu_bot_flask/templates/admin/table.html",
-		"/C/Users/DimaGDD/Downloads/DataFactory.py",
-		"/F/Projects/dgtu_bot_flask/templates/admin/index.html",
-		"/F/Projects/dgtu_bot_flask/backup_code.py",
-		"/F/Projects/dgtu_bot_flask/templates/config.html",
-		"/F/Projects/dgtu_bot_flask/templates/index.html"
+		"/F/Projects/dgtu_bot_flask/venv/Lib/site-packages/wtforms/meta.py"
 	],
 	"find":
 	{
-		"height": 30.0
+		"height": 29.0
 	},
 	"find_in_files":
 	{
@@ -468,129 +543,115 @@
 			[
 				{
 					"buffer": 0,
-					"file": "Assets/Scripts/ParalaxBehaivor.cs",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 790,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"auto_complete_triggers":
-							[
-								{
-									"characters": ".<",
-									"selector": "source.cs"
-								}
-							],
-							"lsp_active": true,
-							"lsp_uri": "file:///F:/%D0%9F%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/Unity/Projects/BHS/Assets/Scripts/ParalaxBehaivor.cs",
-							"show_definitions": false,
-							"syntax": "Packages/C#/C#.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "Assets/Scripts/Capabilities/Move.cs",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1229,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								234,
-								234
-							]
-						],
-						"settings":
-						{
-							"auto_complete_triggers":
-							[
-								{
-									"characters": ".<",
-									"selector": "source.cs"
-								},
-								{
-									"characters": ". ",
-									"registration_id": "1d50d33b-e7e7-412d-9779-6ff7b39150c3",
-									"selector": "source - comment",
-									"server": "OmniSharp"
-								},
-								{
-									"characters": ". ",
-									"registration_id": "1d50d33b-e7e7-412d-9779-6ff7b39150c3",
-									"selector": "source - comment",
-									"server": "OmniSharp"
-								}
-							],
-							"lsp_active": true,
-							"lsp_uri": "file:///F:/%D0%9F%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/Unity/Projects/BHS/Assets/Scripts/Capabilities/Move.cs",
-							"show_definitions": false,
-							"syntax": "Packages/C#/C#.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "Assets/Scripts/Capabilities/Jump.cs",
+					"file": "/F/GitHub/MyRepositories/gamernet/backend/gamernet/gamernet/urls.py",
 					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2574,
+						"buffer_size": 167,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1208,
-								1208
+								167,
+								167
 							]
 						],
 						"settings":
 						{
-							"auto_complete_triggers":
-							[
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
 								{
-									"characters": ".<",
-									"selector": "source.cs"
+									"1":
+									[
+										166,
+										167
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/square_bracket.png",
+										"region.bluish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										86,
+										87
+									]
+								},
+								"unmatched":
+								{
 								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
 							],
-							"lsp_active": true,
-							"lsp_uri": "file:///F:/%D0%9F%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/Unity/Projects/BHS/Assets/Scripts/Capabilities/Jump.cs",
-							"show_definitions": false,
-							"syntax": "Packages/C#/C#.sublime-syntax",
+							"lsp_uri": "file:///F:/GitHub/MyRepositories/gamernet/backend/gamernet/gamernet/urls.py",
+							"syntax": "Packages/Python/Python.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
@@ -601,13 +662,134 @@
 					"stack_index": 0,
 					"stack_multiselect": false,
 					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/F/GitHub/MyRepositories/gamernet/backend/gamernet/main_page/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 163,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								163,
+								163
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										162,
+										163
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/square_bracket.png",
+										"region.bluish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										65,
+										66
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"lsp_uri": "file:///F:/GitHub/MyRepositories/gamernet/backend/gamernet/main_page/urls.py",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
 				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 30.0
+		"height": 29.0
 	},
 	"input":
 	{
@@ -660,7 +842,7 @@
 	"project": "BHS.sublime-project",
 	"replace":
 	{
-		"height": 56.0
+		"height": 54.0
 	},
 	"save_all_on_build": true,
 	"select_file":

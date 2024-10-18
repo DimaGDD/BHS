@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using BHSCamp;
 
 public class Coin : MonoBehaviour, IPowerup
 {
